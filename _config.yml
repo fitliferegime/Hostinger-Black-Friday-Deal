@@ -1,0 +1,55 @@
+# Jekyll Configuration for GitHub Pages
+title: "Hostinger Black Friday 2025 - Up to 81% OFF Deals"
+description: "Complete guide to Hostinger Black Friday deals 2025. Save up to 81% on web hosting, VPS, and cloud hosting. Free domain, SSL, and migration included."
+author: "Hostinger Deals Guide"
+url: "https://fitliferegime.github.io"
+baseurl: "/Hostinger-Black-Friday-Deal"
+
+# SEO Settings
+lang: en-US
+timezone: UTC
+
+# Social Media
+twitter:
+  username: fitliferegime
+  card: summary_large_image
+
+social:
+  name: Hostinger Black Friday Deals
+  links:
+    - https://github.com/fitliferegime/Hostinger-Black-Friday-Deal
+
+# Google Analytics (optional - add your tracking ID)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Theme (using default GitHub Pages theme)
+theme: jekyll-theme-minimal
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      image: /og-image.png

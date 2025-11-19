@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fitliferegime.github.io/Hostinger-Black-Friday-Deal/sitemap.xml

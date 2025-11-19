@@ -1,4 +1,4 @@
-# 🚀 Hostinger Black Friday Deals 2025 - Up to 90% OFF Web Hosting
+# Hostinger Black Friday Deals 2025 - Up to 90% OFF Web Hosting
 
 > **Last Updated:** November 19, 2024 | **Next Black Friday:** November 28, 2025
 > **Deal Status:** 🔥 Early Access Available | Pre-Black Friday Deals Live
